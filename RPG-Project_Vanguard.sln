@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPG-Project_Vanguard", "RPG-Project_Vanguard.csproj", "{24051F4D-2C4B-4F9A-8661-0CDE1958631D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsRoulette", "..\Winlette\WinFormsRoulette\WinFormsRoulette.csproj", "{944A3E3B-357C-467B-A37A-D8B4A733E355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24051F4D-2C4B-4F9A-8661-0CDE1958631D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24051F4D-2C4B-4F9A-8661-0CDE1958631D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24051F4D-2C4B-4F9A-8661-0CDE1958631D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24051F4D-2C4B-4F9A-8661-0CDE1958631D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944A3E3B-357C-467B-A37A-D8B4A733E355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944A3E3B-357C-467B-A37A-D8B4A733E355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944A3E3B-357C-467B-A37A-D8B4A733E355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944A3E3B-357C-467B-A37A-D8B4A733E355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B8EBEB-03B5-452D-B534-C0110499AEC2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+nápady co po portnutí do pygames:
+
+označení rarit (obecně)
+obrázek nás a enemy (nejlepe simple pixel art a !možná! viditelnej i gear)
+    mohl by se trochu hýbat ngl
+chození po mapě (hodně basic)
+fuzing itemů (fuze 4 zbraní zvětší tier, a přidá se hvězdička ke jmenu, (možnost v inventáři))
+special ability 1x per round 
